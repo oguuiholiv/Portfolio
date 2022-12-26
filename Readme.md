@@ -9,7 +9,7 @@
 
 </div>
 
-<img src ="https://media.discordapp.net/attachments/1057006008167301302/1057006046356459560/image.png?width=437&height=413" />
+<img src ="https://media.discordapp.net/attachments/1057006008167301302/1057006046356459560/image.png?width=720&height=696" />
 
 
 <div style="display: inline_block">
