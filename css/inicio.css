@@ -2,6 +2,7 @@
 
 .inicio {
   width: 100%;
-  height: 80vh;
-  background-color: #121212;
+  height: 85vh;
+  background: linear-gradient(rgba(20, 20, 20, 1),rgba(20, 20, 20, 1)),url(../assets/bgtexture.png);
+  background-blend-mode: overlay;
 }
