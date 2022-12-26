@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Baumans&display=swap");
+
+header {
+  width: 100%;
+  height: 15vh;
+  background-color: #121212;
+  border-bottom-left-radius: 0.5rem;
+  border-bottom-right-radius: 0.5rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0px 0.5px 4px #EAF207;
+  position: fixed;
+}
+
+.logo {
+  width: 50%;
+  opacity: 0;
+}
+
+.menu {
+  width: 50%;
+}
+
+.menu-items {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  width: 90%;
+  flex-wrap: wrap;
+}
+
+.menu-items li {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-family: "Baumans", cursive;
+  font-size: 1.2rem;
+  color: #f2f2f2;
+}
+.menu-items li a {
+  text-decoration: none;
+  color: #f2f2f2;
+  transition: ease-in-out 0.3s;
+}
